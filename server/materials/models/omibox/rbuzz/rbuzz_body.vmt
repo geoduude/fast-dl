@@ -1,0 +1,16 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/omibox/rbuzz/rbuzz_body"
+	"$bumpmap" "models/omibox/rbuzz/rbuzz_body_norm"
+	"$selfillum" "1"
+	"$selfillummask" "models/omibox/rbuzz/illum"
+	"$nocull" 1
+                $phong 1
+	$phongboost 1.0
+	$phongfresnelranges "[0 0.1 1]"
+                $ambientocclusion 1
+                $halflambert 1
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost .2
+}

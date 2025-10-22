@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/leopold/v2/keyboard_fix"
+	"$bumpmap" "models/painkiller_76/sf2/leopold/v2/keyboard_norm"
+                "$nodecal" "1"
+}

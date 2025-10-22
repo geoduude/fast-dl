@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/ruswoody/ruswoody_body"
+	"$bumpmap" "models/player/ruswoody/ruswoody_body_normal"
+}

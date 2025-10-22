@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/player/woody/wood_head"
-	"$bumpmap" "models/player/woody/wood_head_normal"
-}
