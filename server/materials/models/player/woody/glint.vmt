@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models\player\woody\glint"
+	"$additive" 1
+	"$model" 1
+	"$scale" 100
+}

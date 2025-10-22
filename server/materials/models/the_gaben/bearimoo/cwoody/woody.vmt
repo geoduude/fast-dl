@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/bearimoo/cwoody/woody"
+	"$bumpmap" "models/the_gaben/bearimoo/cwoody/cwoody_normal"
+	"$alphatest" 1
+	"$nocull" 1
+}

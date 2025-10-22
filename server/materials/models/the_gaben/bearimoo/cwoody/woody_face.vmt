@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/bearimoo/cwoody/woody_face"
+	"$bumpmap" "models/the_gaben/bearimoo/cwoody/cwoody_face_normal"
+}

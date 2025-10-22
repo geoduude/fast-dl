@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/woody/woody_body"
+	"$bumpmap" "models/player/woody/woody_body_normal"
+}
