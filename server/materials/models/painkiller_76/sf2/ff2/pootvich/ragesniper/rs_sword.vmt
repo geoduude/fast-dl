@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/ff2/pootvich/ragesniper/rs_sword"
+	"$detail" "models/painkiller_76/sf2/ff2/pootvich/ragesniper/sword_detail"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"	
+	"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+	"$phongfresnelranges"	"[.2 1 1.1]"
+	"$basemapalphaphongmask" "1"
+}

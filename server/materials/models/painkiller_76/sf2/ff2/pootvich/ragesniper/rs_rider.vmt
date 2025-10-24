@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/painkiller_76/sf2/ff2/pootvich/ragesniper/rs_rider"
+	"$bumpmap"		"models/workshop/player/items/sniper/fall2013_kyoto_rider/fall2013_kyoto_rider_normal"
+	"$phong"		"1"
+	"$phongexponent"		"5.000000"
+	"$phongboost"		"0.100000"
+	"$phongfresnelranges"		"[.25 .5 1]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"2.000000"
+	"$rimlightboost"		"1.000000"
+	"$bumpmapalphaphongmask"		"1"
+	"$color2"		"{255 127 127}"
+
+                $phongtint "[0.8 0 0]"
+}

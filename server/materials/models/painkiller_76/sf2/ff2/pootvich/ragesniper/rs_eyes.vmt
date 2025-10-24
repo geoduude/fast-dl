@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/painkiller_76/sf2/ff2/pootvich/ragesniper/rs_eyes"
+	"$AmbientOcclTexture" "models/player/shared/eye-extra"				 
+	"$Envmap"             "models/player/shared/eye-reflection-cubemap-"    
+	"$CorneaTexture"      "models/player/shared/eye-cornea"                 
+	"$lightwarptexture"   "models/player/shared/eye_lightwarp"        	     
+	"$color2"		"{255 127 127}"
+	"$halflambert" "1"
+	"$nodecal" "1"
+}

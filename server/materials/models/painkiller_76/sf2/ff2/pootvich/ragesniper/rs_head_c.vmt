@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/ff2/pootvich/ragesniper/rs_head_c"
+	"$bumpmap"     "models/painkiller_76/sf2/ff2/pootvich/ragesniper/rs_head_c_norm"
+
+	"$color2"		"{255 167 167}"
+
+                $phongtint "[.8 .5 .5]"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".3"	
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[.1 1 4]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"								
+	"$rimlightboost" "2"								
+}

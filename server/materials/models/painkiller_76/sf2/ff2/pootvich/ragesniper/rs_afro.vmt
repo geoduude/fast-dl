@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/painkiller_76/sf2/ff2/pootvich/ragesniper/rs_afro"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".1"	
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[.1 1 4]"
+	"$halflambert" "1"
+
+                $phongtint "[.8 .5 .5]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "2"
+	"$rimlightboost" "2"	
+
+	"$color2"		"{255 127 127}"
+}
