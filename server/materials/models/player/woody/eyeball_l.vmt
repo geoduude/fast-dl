@@ -1,6 +1,0 @@
-"eyes"
-{
-	"$basetexture" "models\player\woody\eyeball_l"
-	"$iris" "models\player\woody\pupil_l"
-	"$halflambert" 1
-}
